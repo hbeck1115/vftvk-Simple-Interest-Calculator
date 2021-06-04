@@ -1,4 +1,4 @@
-/ the function compute() is executed when the control 'Compute Interest' button is clicked.
+// the function compute() is executed when the control 'Compute Interest' button is clicked.
 // purpose: this function takes the inputs principal, interest rate, and the number of years from the html elements, and the result is calculated and displayed on the 'Simple Interest Calculator' UI.
 // the validation alert is shown on the browser when the principal value is 0 or negative number
 function compute()
