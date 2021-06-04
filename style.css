@@ -1,4 +1,15 @@
-body {background-color:tan;}
-h1{color:green;}
-
+/*the is the body style of the 'Simple Interest Calculator HTML*/
+body {background-color:black;font-family:arial;color:white;font-weight:bold}
+/*This is the header stype*/
+h1{color:grey;font-family:verdana}
+/*This is the main div of the 'Simple Interest Calculator'*/
+.maindiv{
+   background-color:white;
+   color: black;
+   width: 500px;
+   padding: 20px;
+   border-radius: 25px;
+   align: center
+ 
+}
 
